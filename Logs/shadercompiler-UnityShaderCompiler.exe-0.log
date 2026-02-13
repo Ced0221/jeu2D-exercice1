@@ -2149,3 +2149,4 @@ Cmd: preprocessRayTracingShader
 Cmd: compileRayTracingShader
  insize=4429 path=Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/VirtualOffset/TraceVirtualOffset.urtshader buildPlatform=20 macro=<UNITY_VERSION=60030008> pKW=SHADER_API_DESKTOP UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_RAYTRACING SHADER_STAGE_RAY_TRACING platform=d3d11 flags=0 max depth 1 reqs=17243890753 ok=1 outsize=13591
 
+Cmd: shutdown
